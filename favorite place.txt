@@ -1,0 +1,5 @@
+<h2>Favorite places</h2>
+
+<p> Lake Mendota is a freshwater eutrophic lake that is the northernmost and largest of the four lakes in Madison, Wisconsin<p/p>
+
+<img src="lakemendota.jpeg" alt="Lake Mendota, Wisconsin" />
